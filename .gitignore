@@ -1,0 +1,8 @@
+!html/wp-config.php
+!html/wp-content
+!html/.gitkeep
+.docker/datadir/mysql/*
+!.docker/datadir/mysql/.gitkeep
+**/.DS_Store
+**/.less.cache
+**/php_errorlog
